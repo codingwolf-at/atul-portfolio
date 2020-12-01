@@ -71,6 +71,7 @@ hr {
 
 .navigation .nav-pills {
     text-align: center;
+    padding-inline-start: 0px;
 }
 
 .navigation .link {
