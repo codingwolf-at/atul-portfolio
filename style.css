@@ -61,8 +61,8 @@ hr {
     background-color: var(--primary-color);
     color: white;
     padding: 1rem;
-    border-bottom-left-radius: 2rem;
-    border-top-right-radius: 2rem;
+    /* border-bottom-left-radius: 1rem; */
+    /* border-top-right-radius: 1rem; */
 }
 
 .navigation .nav-brand {
@@ -106,7 +106,7 @@ hr {
 
 #my-img {
     border-radius: 50%;
-    border: 5px solid var(--primary-color);
+    border: 5px solid var(--dark-gray);
 }
 
 /* sections */
@@ -127,8 +127,8 @@ hr {
     padding: 2rem 1rem;
     text-align: center;
     color: white;
-    border-top-left-radius: 2rem;
-    border-bottom-right-radius: 2rem;
+    /* border-top-left-radius: 1rem; */
+    /* border-bottom-right-radius: 1rem; */
 }
 
 .footer .footer-header {
