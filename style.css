@@ -34,14 +34,14 @@ hr {
 
 .link-primary {
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     color: white;
 }
 
 .link-secondary {
     color: var(--primary-color);
-    border-radius: 00.5rem;
-    border: 1px solid var(--primary-color);
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
 }
 
 /* lists */
@@ -59,8 +59,8 @@ hr {
     background-color: var(--primary-color);
     color: white;
     padding: 1rem;
-    border-bottom-left-radius: 1rem;
-    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 2rem;
+    border-top-right-radius: 2rem;
 }
 
 .navigation .nav-brand {
@@ -102,6 +102,11 @@ hr {
     color: blue;
 }
 
+#my-img {
+    border-radius: 50%;
+    border: 5px solid var(--primary-color);
+}
+
 /* sections */
 .section {
     padding: 2rem;
@@ -120,8 +125,8 @@ hr {
     padding: 2rem 1rem;
     text-align: center;
     color: white;
-    border-top-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
 }
 
 .footer .footer-header {
