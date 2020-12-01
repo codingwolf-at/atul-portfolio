@@ -104,6 +104,10 @@ hr {
     color: blue;
 }
 
+.hero .hero-heading .heading-inverted-red {
+    color: red
+}
+
 #my-img {
     border-radius: 50%;
     border: 5px solid var(--dark-gray);
