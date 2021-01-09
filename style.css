@@ -148,3 +148,8 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+#social-link-box {
+    display: flex;
+    justify-content: center;
+}
