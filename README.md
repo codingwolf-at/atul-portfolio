@@ -11,10 +11,11 @@
 - Blogs Page
 - Socials
 
- ## Made using
+## Made using
 
- - HTML5
- - CSS3
+- HTML5
+- CSS3
 
- ## Hosted on 
- - Netlify
+## Hosted on 
+
+- Netlify
